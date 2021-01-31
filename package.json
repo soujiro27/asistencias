@@ -1,0 +1,20 @@
+{
+  "name": "asistencias",
+  "version": "1.0.0",
+  "description": "frontend sistema de asisitencias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soujiro27/asistencias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soujiro27/asistencias/issues"
+  },
+  "homepage": "https://github.com/soujiro27/asistencias#readme"
+}
