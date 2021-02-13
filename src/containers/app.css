@@ -1,0 +1,7 @@
+.app__container{
+    display: flex;
+}
+
+.app__container .app__image{
+    width: 50%;
+}

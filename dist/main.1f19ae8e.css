@@ -1,0 +1,14 @@
+.app__container{
+    display: flex;
+}
+
+.app__container .app__image{
+    width: 50%;
+}
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul,
+ol, li, dl, dt, dd, form, a, fieldset, input, th, td
+{
+margin: 0; padding: 0; border: 0; outline: none;
+}
+
+/*# sourceMappingURL=/main.1f19ae8e.css.map */
